@@ -1,0 +1,57 @@
+h1{
+    color: brown;
+}
+h3{
+    font-style: italic;
+    color: red;
+}
+li{
+    color: maroon;
+    line-height: 30px;
+}
+.first{
+    text-decoration: line-through;
+}
+.second{
+    background-color: yellow;
+    
+    }
+#third{
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+span{
+    font-weight: 900;
+}
+ul li{
+    color: maroon ;
+    letter-spacing: 2px;
+    /* font-family: monospace; */
+    /* word-spacing: 30px; */
+    line-height: 30px;
+    font-weight: 500;
+}
+.third{
+    background-color: yellow;
+
+}
+p{
+    color: brown;
+}
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: white;
+}
+
+
+
+
+
+
+
+/* text decoration 
+
+border : solid dotted*/
